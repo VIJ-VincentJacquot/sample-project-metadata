@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "your_image_url",
-    "external_link": "https://immutable.com" 
+    "name": "My Bad Kid collection",
+    "description": "Replication of the amazing Bad Kids on Stargaze",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRYNaNvT3Sg6s7LFGbLHjTz3yEoYdzv3JuqtQVDkmJubD?",
+    "external_link": "https://some-url"
 }
