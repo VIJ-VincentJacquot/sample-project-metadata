@@ -1,0 +1,25 @@
+{
+  "id": 235,
+  "image": "https://ivory-patient-barracuda-851.mypinata.cloud/ipfs/QmT3wux8HgfZjKRbTSDiJFaXJXCw4nJD2C1DJrajxLyLHN",
+  "token_id": "235",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Bad Kid 9760",
+  "description": "This is Bad Kid 9760",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Paper wall",
+      "value": "white"
+    },
+    {
+      "trait_type": "Age",
+      "value": "6"
+    },
+    {
+      "trait_type": "Badness",
+      "value": "20"
+    }
+  ]
+}
